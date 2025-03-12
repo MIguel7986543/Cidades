@@ -1,0 +1,13 @@
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("exiba os nomes das cidades do litoral sul de São Paulo");
+Console.ResetColor();
+Console.WriteLine();
+Console.WriteLine("ITANHAÉM");
+Console.WriteLine("BERTIOGA");
+Console.WriteLine("PERUÍBE");
+Console.WriteLine("SANTOS");
+Console.WriteLine("CUBATÃO");
+Console.WriteLine("GUARUJÁ");
+Console.WriteLine("MONGAGUÁ");
+Console.WriteLine("SÃO VICENTE");
